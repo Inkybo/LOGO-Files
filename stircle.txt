@@ -1,0 +1,8 @@
+stircle
+
+home clean
+setpc 0
+star
+setpc 1
+circle
+
